@@ -26,3 +26,6 @@ Testes com **Agents window** no **Visual Studio Code** (**Menu View > Command Pa
 
 ![Resultado da execução dos testes](img/mcp-grafana-01.png)
 
+Configurações do MCP Server em **Agents windows**:
+
+![Configurações](img/mcp-grafana-02.png)
